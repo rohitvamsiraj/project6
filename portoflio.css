@@ -1,0 +1,24 @@
+boby{
+    text-align: center;
+}
+li{
+    display: inline;
+    margin-right: 30px;
+}
+header{
+    background-color: blueviolet;
+    padding: 100px;
+}
+img{
+    border-radius: 50%;
+}
+.bars{
+    background-color: bisque;
+}
+.one
+{
+    background-color: peru;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
